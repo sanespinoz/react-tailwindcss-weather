@@ -1,8 +1,40 @@
-# React + Vite
+# ⛅ Weather App - React + TailwindCSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación del clima construida con **React** y estilizada con **TailwindCSS**.  
+Consulta datos meteorológicos de ciudades mediante una API pública.
 
-Currently, two official plugins are available:
+## 🌐 Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Ver online: *[Agregá el link si está publicado en Vercel, Netlify, etc.]*
+
+## ⚙️ Tecnologías utilizadas
+
+- React
+- TailwindCSS
+- JavaScript (ES6+)
+- API REST para datos del clima (ej. OpenWeatherMap)
+- Vite (para desarrollo rápido)
+
+## 🚀 ¿Cómo ejecutar el proyecto?
+
+1. Cloná el repositorio:
+   ```bash
+   git clone https://github.com/sanespinoz/react-tailwindcss-weather.git
+   cd react-tailwindcss-weather
+   ```
+2.Instalá las dependencias:
+
+  ```bash
+  npm install
+ ```
+3.Iniciá la app:
+
+  ```bash
+  npm run dev
+   ```
+
+4.Abrí en tu navegador: http://localhost:5173
+
+## 📄 Licencia
+MIT License.
+
