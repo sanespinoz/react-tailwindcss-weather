@@ -5,7 +5,8 @@ Consulta datos meteorológicos de ciudades mediante una API pública.
 
 ## 🌐 Demo
 
-🚀 Ver online: *[Agregá el link si está publicado en Vercel, Netlify, etc.]*
+🚀 Ver online: [Jugar al Snake Online](https://sanespinoz.github.io/js-snake-game/)
+
 
 ## ⚙️ Tecnologías utilizadas
 
